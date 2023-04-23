@@ -1,5 +1,6 @@
 import spacy from "../assets/spacy.jpg";
 import pose_1 from "../assets/pose_1.png";
+import stream from "../assets/stream.jpg";
 
 export const ProjectList = [
 	{
@@ -8,6 +9,7 @@ export const ProjectList = [
 		skills: "NLP, NLTK, streamlit, spacy, praw",
 		code:"https://colab.research.google.com/drive/1QRFsdxlKOBt-V_h6_RFYZvrHtb03GsrJ?usp=sharing",
 		github:"https://github.com/felicityy-li/Neuro-Journal/blob/main/journal_backend.ipynb",
+		youtube: "https://www.youtube.com/watch?v=0T16w4Ubmqk&t=30s",
 	},
 
     {
@@ -24,8 +26,10 @@ export const ProjectList = [
 
 	{
 		name:"Streamlit Plotting",
-		image: spacy,
+		image: stream,
 		skills: "streamlit, graphing, visaulization",
+		youtube: "https://www.youtube.com/watch?v=zu4FTDUtjKc",
+		github:"https://github.com/gu12934/Streamlit/blob/main/plotting/plotting_dashboard.py",
 
 	},
 	{

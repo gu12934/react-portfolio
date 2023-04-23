@@ -13,9 +13,18 @@ function Home() {
           <p> 
             I am a Data Scientist with a Biology background who is passionate about learning and coding.
             </p> 
+            
+            <a href="https://www.linkedin.com/in/gurmol-s/" rel="noopener noreferrer" target="_blank">
             <LinkedInIcon /> 
+            </a>
+
+            <a href= "mailto:gurmolsofly12@gmail.com" rel="noopener noreferrer" target="_blank">
             <EmailIcon />
+            </a>
+           
+            <a href= "https://github.com/gu12934" rel="noopener noreferrer" target="_blank">
             <GithubIcon />
+            </a>
           </div>
       </div>
       <div className="skills">

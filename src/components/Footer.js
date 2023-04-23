@@ -7,7 +7,9 @@ function Footer() {
     <div className="footer">
       <div className="socialMedia">
         
-        <LinkedInIcon />
+      <a href="https://www.linkedin.com/in/gurmol-s/" rel="noopener noreferrer" target="_blank">
+            <LinkedInIcon /> 
+            </a>
       </div>
       <p> &copy; 2023 gurmolthedataguy.com</p>
     </div>
