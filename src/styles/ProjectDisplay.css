@@ -5,6 +5,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    flex: 1;
   }
   
   .project h1 {
@@ -25,4 +26,9 @@
   .project svg {
     font-size: 60px;
     color: #3e497a;
+  }
+
+  .social-icons {
+    display: flex;
+    flex-direction: row;
   }
