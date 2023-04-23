@@ -1,6 +1,7 @@
 import spacy from "../assets/spacy.jpg";
 import pose_1 from "../assets/pose_1.png";
 import stream from "../assets/stream.jpg";
+import soccer from "../assets/soccer.jpg"
 
 export const ProjectList = [
 	{
@@ -27,14 +28,17 @@ export const ProjectList = [
 	{
 		name:"Streamlit Plotting",
 		image: stream,
-		skills: "streamlit, graphing, visaulization",
+		skills: "streamlit, graphing, visualization",
 		youtube: "https://www.youtube.com/watch?v=zu4FTDUtjKc",
 		github:"https://github.com/gu12934/Streamlit/blob/main/plotting/plotting_dashboard.py",
 
 	},
 	{
 		name:"SQL Analysis of Soccer",
-		image: spacy,
+		image: soccer,
+		skills: "streamlit, graphing, SQL queries",
+		github: "https://github.com/gu12934/Streamlit/blob/gu12934-sql_streamlit/sql_playground.py",
+		youtube: "https://www.youtube.com/watch?v=OGxL7-mkEpY",
 
 	},
 	{
