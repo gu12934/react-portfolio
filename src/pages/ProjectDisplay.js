@@ -16,13 +16,16 @@ function ProjectDisplay() {
     <p><b>Link: </b> {project.code}</p>
     <p><b>Demo: </b> {project.demo}</p>
 
-    <a href={project.youtube} rel="noopener noreferrer" target="_blank">
-    <YouTubeIcon />
-    </a>
+    <div className="social-icons">
+      <a href={project.youtube} rel="noopener noreferrer" target="_blank">
+      <YouTubeIcon />
+      </a>
 
-    <a href={project.github} rel="noopener noreferrer" target="_blank">
-    <GitHubIcon />
-    </a>
+      <a href={project.github} rel="noopener noreferrer" target="_blank">
+      <GitHubIcon />
+      </a>
+    </div>
+
   </div>;
   
 }
