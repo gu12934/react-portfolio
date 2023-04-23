@@ -1,7 +1,8 @@
 import spacy from "../assets/spacy.jpg";
 import pose_1 from "../assets/pose_1.png";
 import stream from "../assets/stream.jpg";
-import soccer from "../assets/soccer.jpg"
+import soccer from "../assets/soccer.jpg";
+import fastapi from "../assets/fastapi.png"
 
 export const ProjectList = [
 	{
@@ -14,14 +15,16 @@ export const ProjectList = [
 	},
 
     {
-        name:"Pose Estimation Project",
+        name:"Computer Vision Metrics",
 		image: pose_1,
 		skills: "open cv,mediapipe, python",
 
     },
 
 	{	name: "FastAPI Project" ,
-		image: spacy,
+		image: fastapi,
+		skills: "Fast API, network, socketing",
+		github: "https://github.com/gu12934/API/blob/main/test_api.py",
 		skills: "FastAPI, networking, socketing, client, server",
 	},
 
@@ -37,6 +40,7 @@ export const ProjectList = [
 		name:"SQL Analysis of Soccer",
 		image: soccer,
 		skills: "streamlit, graphing, SQL queries",
+		code: "https://colab.research.google.com/drive/1pvO6jexVTHBl6_4moT_UmH4utyR2fD8j#scrollTo=VJVbpo7nqeVb",
 		github: "https://github.com/gu12934/Streamlit/blob/gu12934-sql_streamlit/sql_playground.py",
 		youtube: "https://www.youtube.com/watch?v=OGxL7-mkEpY",
 
