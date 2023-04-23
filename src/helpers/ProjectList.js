@@ -2,7 +2,8 @@ import spacy from "../assets/spacy.jpg";
 import pose_1 from "../assets/pose_1.png";
 import stream from "../assets/stream.jpg";
 import soccer from "../assets/soccer.jpg";
-import fastapi from "../assets/fastapi.png"
+import fastapi from "../assets/fastapi.png";
+import indian from "../assets/indian.jpg";
 
 export const ProjectList = [
 	{
@@ -15,9 +16,11 @@ export const ProjectList = [
 	},
 
     {
-        name:"Computer Vision Metrics",
-		image: pose_1,
-		skills: "open cv,mediapipe, python",
+        name:"Indian Food EDA",
+		image: indian,
+		code: "https://www.kaggle.com/code/gurmolsingh/indian-food-101-analysis",
+		github: "https://github.com/gu12934/Kaggle-Data-Analysis-EDA/blob/gu12934-Indian-food/Indian%20Food%20101.ipynb",
+		skills: "python, plotly, sns, seaborn",
 
     },
 
