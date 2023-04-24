@@ -48,7 +48,7 @@ export const ProjectList = [
 		name:"SQL Analysis of Soccer",
 		image: soccer,
 		skills: "streamlit, graphing, SQL queries",
-		description: "Streamlit project that allows you to upload a file and run SQL commands on it",
+		description: "Streamlit project that allows you to upload a sql lite file and run SQL commands on it",
 		code: "https://colab.research.google.com/drive/1pvO6jexVTHBl6_4moT_UmH4utyR2fD8j#scrollTo=VJVbpo7nqeVb",
 		github: "https://github.com/gu12934/Streamlit/blob/gu12934-sql_streamlit/sql_playground.py",
 		youtube: "https://www.youtube.com/watch?v=OGxL7-mkEpY",
