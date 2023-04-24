@@ -13,6 +13,7 @@ function ProjectDisplay() {
     <h1>{project.name}</h1>
     <img src={project.image} />
     <p><b>Skills:</b> {project.skills}</p>
+    <p><b>Description: </b> {project.description}</p>
     <p><b>Link: </b> {project.code}</p>
     <p><b>Demo: </b> {project.demo}</p>
 
