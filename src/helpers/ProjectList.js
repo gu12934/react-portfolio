@@ -54,11 +54,7 @@ export const ProjectList = [
 		youtube: "https://www.youtube.com/watch?v=OGxL7-mkEpY",
 
 	},
-	{
-		name:"CNN project",
-		image: spacy,
-
-	},
+	
 	
 
 ];
