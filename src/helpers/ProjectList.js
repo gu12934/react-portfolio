@@ -24,6 +24,7 @@ export const ProjectList = [
 		code: "https://www.kaggle.com/code/gurmolsingh/indian-food-101-analysis",
 		github: "https://github.com/gu12934/Kaggle-Data-Analysis-EDA/blob/gu12934-Indian-food/Indian%20Food%20101.ipynb",
 		skills: "python, plotly, sns, seaborn",
+		youtube: "https://www.youtube.com/watch?v=JlMT08sTldE",
 
     },
 
