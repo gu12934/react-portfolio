@@ -34,6 +34,7 @@ export const ProjectList = [
 		skills: "Fast API, network, socketing",
 		github: "https://github.com/gu12934/API/blob/main/test_api.py",
 		skills: "FastAPI, networking, socketing, client, server",
+		youtube: "https://www.youtube.com/watch?v=gcvDo0U_Z9c",
 	},
 
 	{
