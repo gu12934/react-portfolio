@@ -1,5 +1,4 @@
-import spacy from "../assets/spacy.jpg";
-import pose_1 from "../assets/pose_1.png";
+
 import stream from "../assets/stream.jpg";
 import soccer from "../assets/soccer.jpg";
 import fastapi from "../assets/fastapi.png";
